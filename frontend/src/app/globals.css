@@ -10,6 +10,12 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Scoped theme for Login + Team pages only — see docs/login_requirements.md */
+  --color-navy: #0b132b;
+  --color-input-blue: #295abb;
+  --color-cream: #fffbf4;
+  --font-serif-login: 'Times New Roman', Times, serif;
 }
 
 @media (prefers-color-scheme: dark) {
