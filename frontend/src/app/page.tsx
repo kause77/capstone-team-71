@@ -14,7 +14,7 @@ export default function LandingPage() {
           {process.env.NEXT_PUBLIC_APP_NAME ?? 'App'}
         </h1>
         <p className="max-w-md text-lg text-zinc-600 dark:text-zinc-400">
-        71-Formula 1 VR Driving Simulator— Team A, designing software for the Eight360 nova vr to simulate F1 racing
+          71-Formula 1 VR Driving Simulator— Team A, designing software for the Eight360 nova vr to simulate F1 racing
         </p>
       </div>
       <div className="flex gap-4">
