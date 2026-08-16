@@ -7,7 +7,7 @@ export const teamMembers: TeamMember[] = [
     role: 'Project Manager',
     blurb:
       'Coordinates the team and oversees the overall architecture of the project, keeping everyone aligned on scope and deadlines.',
-    photoUrl: '/team/jt.svg',
+    photoUrl: '/team/jt.jpg',
   },
   {
     id: 'member-2',
@@ -15,7 +15,7 @@ export const teamMembers: TeamMember[] = [
     role: 'Business Analyst',
     blurb:
       'Analyzes business requirements and translates them into technical specifications for the development team.',
-    photoUrl: '/team/al.svg',
+    photoUrl: '/team/al.jpg',
   },
   {
     id: 'member-3',
@@ -23,7 +23,7 @@ export const teamMembers: TeamMember[] = [
     role: 'Developer',
     blurb:
       'One of two developers responsible for implementing the core features of the application, writing clean and maintainable code.',
-    photoUrl: '/team/ak.svg',
+    photoUrl: '/team/ak.jpg',
   },
   {
     id: 'member-4',
@@ -31,7 +31,7 @@ export const teamMembers: TeamMember[] = [
     role: 'Developer',
     blurb:
       'One of two developers responsible for implementing the core features of the application, writing clean and maintainable code.',
-    photoUrl: '/team/cg.svg',
+    photoUrl: '/team/cg.jpg',
   },
   {
     id: 'member-5',
@@ -39,6 +39,6 @@ export const teamMembers: TeamMember[] = [
     role: 'UX Designer',
     blurb:
       'Owns the visual design system and user experience research, translating requirements into clear, consistent interfaces.',
-    photoUrl: '/team/hh.svg',
+    photoUrl: '/team/hh.jpg',
   },
 ]
