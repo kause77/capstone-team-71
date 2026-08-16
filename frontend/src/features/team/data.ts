@@ -39,6 +39,6 @@ export const teamMembers: TeamMember[] = [
     role: 'UX Designer',
     blurb:
       'Owns the visual design system and user experience research, translating requirements into clear, consistent interfaces.',
-    photoUrl: '/team/hh.svg',
+    photoUrl: '/team/hh.jpg',
   },
 ]
